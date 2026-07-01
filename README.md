@@ -1,2 +1,2 @@
 # DSA-JAVA
-Java solution to dsa problems from leet code ,Coding Ninjas and geeksforgeeks
+A Collection of Java solutions to DSA problems from Leet code ,Coding Ninjas and geeksforgeeks.
